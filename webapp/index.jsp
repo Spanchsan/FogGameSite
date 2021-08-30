@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,20 +13,20 @@
 <body>
     <header>
 		  <nav id="menu">
-			<a href="index.html"> <img src = 'images/fogIcon.png' id="icon" /> </a>
+			<a href=""> <img src = 'images/fogIcon.png' id="icon" /> </a>
 			<div id="navItems">
 				<ul class="nav">
 				  <li class="nav-item">
-					<a class="nav-link active" aria-current="page" href="index.html">Home</a>
+					<a class="nav-link active" aria-current="page" href="">Home</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="screen.html">About Game Mods</a>
+					<a class="nav-link" href="GameModes">About Game Mods</a>
 				  </li>
 				  <li class="nav-item">
-					<a class="nav-link" href="review.html">Make your review</a>
+					<a class="nav-link" href="#">Make your review</a>
 				  </li>
 				  <li class="nav-item endLink"> 
-						<a class="nav-link btn btn-warning" href="https://drive.google.com/file/d/1GJMAlnetw_mxwVBtQEi13Dv9sV-hpUZ8/view?usp=sharing" style="padding-bottom: 10px;">Download </a>
+						<a class="nav-link btn btn-warning" href="https://spanchsan.itch.io/fog" style="padding-bottom: 10px;">Download </a>
 					</li>
 				</ul>
 		    </div>
