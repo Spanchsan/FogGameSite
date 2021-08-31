@@ -1,0 +1,53 @@
+#menu {
+	background-color: #324ab2;
+	width: 100%;
+	height: 80px;
+	border: solid 1px black;
+}
+
+ #menu  > a > #icon {
+	width: 10%;
+	height: 100%;
+	float: left;
+}
+
+#navItems{
+	padding-top: 15px;
+}
+
+#navItems > ul > li > a{
+	color: white;
+}
+
+.carImg {
+    float: right;
+	width: 800px;
+	height: 500px;
+}
+
+.carText {
+	font-weight: bold;
+    text-align: center;
+	font-size: 1.1em;
+	padding: 10px;
+	width: 430px;
+	height: 500px;
+}
+
+.endLink {
+	padding-left: 35rem;
+}
+
+.endLink > a {
+	font-weight: bold;
+}
+
+.endLink > a:hover {
+	background-color: #324ab2;
+}
+
+.right-text {
+	font-weight: bold;
+	margin-left: 35px;
+	margin-top: 20px;
+}

@@ -1,0 +1,70 @@
+#menu {
+	background-color: #324ab2;
+	width: 100%;
+	border: solid 1px black;
+	font-size: 1.6vw;
+}
+
+ #menu  > a > #icon {
+	width: 11%;
+	float: left;
+}
+
+#navItems{
+	padding: 2%;
+}
+
+#navItems > ul > li > a{
+	color: white;
+}
+
+#footer {
+	background-color: rgb(107, 107, 107);
+	color: white;
+	width: 100%;
+	height: 10%;
+	position: fixed;
+	bottom: 0;
+}
+
+#footer > a {
+	width: 49%;
+	height: 95%;
+	margin: 0.2%;
+}
+
+
+.carImg {
+    float: right;
+	width: 60%;
+	height: 80%;
+}
+
+.carText {
+	font-weight: bold;
+    text-align: center;
+	font-size: 1.5vw;
+	padding: 2rem;
+	width: 30%;
+	height: 80%;
+}
+
+
+.endLink {
+	padding-left: 20%;
+}
+
+.endLink > a {
+	font-weight: bold;
+}
+
+.endLink > a:hover {
+	background-color: #324ab2;
+}
+
+.right-text {
+	font-weight: bold;
+	font-size:	2vw;
+	color: white;
+  	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
